@@ -82,6 +82,7 @@ IMAGE_INSTALL_append = " \
 	qtquickcontrols2 \
 	qtscript \
 	qtsensors \
+	qtremoteobjects \
 	qtserialbus \
 	qtserialport \
 	qtvirtualkeyboard \
