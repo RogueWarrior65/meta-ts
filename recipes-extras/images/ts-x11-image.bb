@@ -13,17 +13,21 @@ IMAGE_INSTALL_append = " \
 	alsa-utils-amixer \
 	alsa-utils-aplay \
 	alsa-utils-speakertest \
+	apt \
 	bash-completion \
+	bison \
 	boost \
 	canutils \
 	cinematicexperience \
 	clutter-1.0-examples \
+	cmake \
 	curl \
 	devmem2 \
 	e2fsprogs \
 	espeak \
 	fbgrab \
 	fbset \
+	flex \
 	fontconfig-utils \
 	freetype \
 	git \
@@ -46,9 +50,14 @@ IMAGE_INSTALL_append = " \
 	iw \
 	ldd \
 	liberation-fonts \
+	libarchive \
 	libmodbus \
+	libnl \
+	libpcre \
 	libsocketcan \
 	libusb1 \
+	libuv \
+	lighttpd \
 	lighttpd-module-cgi \
 	linux-firmware \
 	lsof \
@@ -62,6 +71,7 @@ IMAGE_INSTALL_append = " \
 	openssh-sftp \
 	openssh-sftp-server \
 	picocom \
+	php \
 	ppp \
 	python-core \
 	python-ctypes \
@@ -88,6 +98,7 @@ IMAGE_INSTALL_append = " \
 	qtvirtualkeyboard \
 	qtwebkit \
 	rsync \
+	ser2net \
 	sqlite3 \
 	tcpdump \
 	ttf-bitstream-vera \
